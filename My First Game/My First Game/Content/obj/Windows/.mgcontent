@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Abhishek/Documents/Visual Studio 2015/Projects/My First Game/My First Game/Content/earth.png</File>
+    <File>C:/Users/Abhishek/Documents/Visual Studio 2015/Projects/My First Game/My First Game/Content/shuttle.png</File>
+    <File>C:/Users/Abhishek/Documents/Visual Studio 2015/Projects/My First Game/My First Game/Content/stars.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>

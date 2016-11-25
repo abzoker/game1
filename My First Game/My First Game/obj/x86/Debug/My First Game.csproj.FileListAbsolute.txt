@@ -1,0 +1,26 @@
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\My First Game.exe
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\My First Game.pdb
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\obj\x86\Debug\My First Game.csprojResolveAssemblyReference.cache
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\obj\x86\Debug\My First Game.exe
+c:\users\abhishek\documents\visual studio 2015\Projects\My First Game\My First Game\obj\x86\Debug\My First Game.pdb
+C:\Users\Abhishek\Documents\Visual Studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\Content\earth.xnb
+C:\Users\Abhishek\Documents\Visual Studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\Content\shuttle.xnb
+C:\Users\Abhishek\Documents\Visual Studio 2015\Projects\My First Game\My First Game\bin\Windows\x86\Debug\Content\stars.xnb
